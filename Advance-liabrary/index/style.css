@@ -1,0 +1,10 @@
+/* Set full height and background image */
+.hero-section {
+  height: 100vh;
+  background: linear-gradient(
+    rgba(0, 0, 0, 0.6),
+    rgba(0, 0, 0, 0.6)
+    ),
+    url("../picture/liabrary01.jpg") no-repeat center center/cover;
+}
+
